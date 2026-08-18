@@ -47,3 +47,117 @@ O grupo seguiu até a residência fechada de Tauric. Sentido Divino de Percival 
   
 ## JAJ
 como caralhos resolver essa politica ai, tentar descobrir oq ocorreu em Oriz e com base nisso possivelmente uma forma de conter/acabar com as raízes de Taham, assim ver oq vai dar da reunião com o diplomata de Eldum, se for algum tipo de se entreguem e ajudaremos contra dos demônios, pedir um tempo, pois talvez nos possamos lidar com isso como dito anteriormente. caso consigamos é um problema a menos para Atardium e só fica o embargo comercial e fds não sei politica.
+
+### Talric perguntas
+Usar a **Zona da Verdade.**
+
+1. **Você sabe se ele falhou no teste:** Como conjurador, você sabe automaticamente se Tauric passou ou falhou no teste de resistência de Carisma. Se ele passar, espere o próximo turno dele dentro da área (ele refaz o teste a cada turno) até que falhe.
+    
+      
+    
+2. **Ele sabe que está sob a magia:** Tauric estará ciente da feitiçaria e **pode tentar omitir dados, falar em meias-verdades ou ficar em silêncio**.
+    
+      
+    
+3. **Como fechar brechas:** Faça perguntas diretas que exijam **"Sim" ou "Não"**, ou peça confirmações numéricas/específicas para impedir respostas evasivas. Se ele se recusar a responder, use isso como evidência de culpa.
+    
+      
+    
+
+### 📋 Roteiro de Interrogatório: As Perguntas-Chave
+
+#### **Etapa 1: Validação do Feitiço (Perguntas de Controle)**
+
+Antes de entrar nos assuntos sérios, confirme que ele falhou no teste e estabeleça a autoridade da mesa.
+
+  
+
+- **1.1:** _"Qual é o seu nome completo e onde você nasceu?"_
+    
+      
+    
+- **1.2:** _"Você é ou já foi um soldado oficial?"_
+    
+      
+    
+
+#### **Etapa 2: A Ligação com o Corruptor e a Casa em Chamas**
+
+O objetivo é descobrir se Tauric é um cúmplice voluntário do monstro ou uma vítima/hospedeiro.
+
+  
+
+- **2.1:** _"Você sabia que aquela criatura (o corruptor) estava escondida dentro ou debaixo da sua casa?"_
+    
+      
+    
+- **2.2:** _"Você ajudou, alimentou ou protegeu aquela criatura de alguma forma?"_
+    
+      
+    
+- **2.3:** _"A criatura foi parar na sua casa por sua vontade própria ou você foi forçado a abrigá-la?"_
+    
+      
+    
+- **2.4:** _"Há mais criaturas como aquela escondidas em Oriz?"_
+    
+      
+    
+
+#### **Etapa 3: A Praga (_Letargia Cinzenta_) e a Filha do Barão**
+
+O Barão Elian o acusa diretamente pelo agravamento da praga e pelo estado da filha.
+
+  
+
+- **3.1:** _"Você teve alguma participação direta ou indireta na doença da filha do Barão Elian?"_
+    
+      
+    
+- **3.2:** _"Você sabe o que causa a Letargia Cinzenta e como ela é transmitida?"_
+    
+      
+    
+- **3.3:** _"Você sabe como curar a Letargia Cinzenta ou onde fica a fonte exata das raízes negras?"_
+    
+      
+    
+
+#### **Etapa 4: Motivações Políticas e Cúmplices**
+
+Tauric estava incitando a população contra o governo e o Barão.
+
+  
+
+- **4.1:** _"Quando você incitava os moradores contra o Barão, você estava agindo sozinho ou a mando de alguém?"_
+    
+      
+    
+- **4.2:** _"Você tem aliados ou cúmplices dentro de Oriz ou no Porto Alegre?"_
+    
+      
+    
+- **4.3:** _"Você recebe ordens, dinheiro ou favores de alguma seita, culto ou facção estrangeira?"_
+    
+      
+    
+- **4.4:** _"O seu objetivo ao incitar a vila era proteger a população ou causar o caos para encobrir a praga?"_
+    
+      
+    
+
+### ⚔️ Postura Recomendada para Percival (Paladino)
+
+- **Tom Firme e Imparcial:** Lembre Tauric de que o Barão Elian e a vila querem a cabeça dele. A _Zona da Verdade_ e a mediação do grupo são a **única chance** de ele provar inocência (caso seja apenas um bode expiatório) ou ter um julgamento justo sob a ordem e os dogmas de Nargal.
+    
+      
+    
+- **Controle da Reação do Barão e do Sacerdote:** Realizem o interrogatório na presença do **Sacerdote Stephen** e do **Barão Elian** (ou de testemunhas idôneas como a **Vovó Rosa**) para que ninguém possa contestar o depoimento prestado sob a magia.
+    
+      
+    
+- **Se Tauric tentar ficar em silêncio:**
+    
+      
+    
+    > _"Seu silencio será sua confissão, e sua punição será minha lamina, que seu sangue retorne aos céus"_
