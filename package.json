@@ -1,0 +1,12 @@
+{
+  "name": "obsidian-vault-reader",
+  "version": "1.0.0",
+  "description": "Leitor web simples e elegante para notas do Obsidian no celular via GitHub Pages",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": ["obsidian", "github-pages", "reader", "markdown"],
+  "author": "",
+  "license": "ISC"
+}
